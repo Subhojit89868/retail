@@ -1,0 +1,21 @@
+scala version
+scala version;
+consoleQuick
+x
+reload
+exit
+package
+exit
+run
+run 2
+run 3
+run 5
+package
+run orderRevenue 5
+run 5
+package
+run 6
+run 5
+run-main orderRevenue 2
+run orderRevenue 2
+exit
